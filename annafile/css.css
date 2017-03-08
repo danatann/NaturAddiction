@@ -1,0 +1,121 @@
+<style type="text/css">
+
+ div {
+    color:black;
+}
+
+.debut{
+background-image: url("cascade.jpg");
+background-size: 1280px 864px;
+background-position: bottom-center;
+padding-top: 80px;
+padding-bottom: 10px;
+padding-left:70px;
+background-repeat: no-repeat;
+color:white;
+}
+.container{
+  background-color: #b3ffec;
+}
+
+
+label{
+    font-size: 18px;
+    position: right;
+    color: white;
+  }
+
+input[type="submit"] {
+      background: #00b3b3;
+      font-style: helvetica;
+      color: white;
+      font-style: bold;
+      font-size: 18px;
+      padding-top:300px;
+      position: left;
+      -webkit-appearance: button;
+  }
+
+
+
+  h1{
+    font-size: 200px;
+    color: white;
+    text-align: left;
+    -webkit-text-stroke: 1px #b3ffec;
+  } 
+
+
+
+h2{
+    font-size: 100px;
+    font-style: helvetica;
+    color: white;
+    text-align: left;
+    -webkit-text-stroke: 1px #b3ffec;
+  }
+
+
+
+   h3{
+    font-size: 100px;
+    font-style: helvetica;
+    color: black;
+    text-align: center;
+    background-color: #b3ffec;
+    
+  }
+
+   h4{
+    font-size: 60px;
+    font-style: helvetica;
+    color: black;
+    text-align: center;
+    margin: 30px 0px 30px 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #b3ffec;
+    
+  }
+
+    ul {
+      font-size: 20px;
+      font-style: helvetica;
+      padding: 5px;
+      text-align: center;
+    }
+
+    li {
+      display: inline-block;
+      padding: 0px 30px 0px 30px;
+      
+    }
+
+p {
+      font-size: 30px;
+      text-align: left;
+    }
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+  footer{
+    text-align: center;
+    font-style: helvetica;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+  }
+
+</style>
