@@ -5,6 +5,10 @@
     color:black;
 }
 
+.container{
+  background-color: #b3ffec;
+}
+
 .debut{
 background-image: url("cascade.jpg");
 background-size: 1280px 864px;
@@ -17,9 +21,6 @@ font-size:100px;
 color:white;
 }
 
-.container{
-  background-color: #b3ffec;
-}
 
 h1{
     font-size: 100px;
@@ -31,46 +32,35 @@ h1{
 h2{
     font-size: 45px;
     font-style: helvetica;
-    padding-left: 10px;
+    padding-left: 20px;
     background-color: #b3ffec;
   }
   
-  img{
+img{
     width:310px;
     height:310px;
   }
 
-   ul {
+ul {
       font-size: 20px;
       font-style: helvetica;
       padding: 5px;
       text-align: left;
     }
 
-    li {
-      display: inline-block;
-      padding: 0px 30px 0px 30px;
-      
+li {
+      padding: 0px 30px 10px 30px;
     }
 
 p{
   font-size: 20px;
-  padding-left: 10px;
+  padding-left: 30px;
 }
 
- label{
-    font-size: 15px;
-    padding-left: 10px;
-    padding-bottom: 10px;
+
+iframe{
+    position: center;
   }
-
-  .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-}
 
 
 </style>

@@ -5,6 +5,10 @@
     color:black;
 }
 
+.container{
+  background-color: #b3ffec;
+}
+
 .debut{
 background-image: url("cascade.jpg");
 background-size: 1280px 864px;
@@ -17,13 +21,10 @@ font-size:100px;
 color:white;
 }
 
-.container{
-  background-color: #b3ffec;
-}
 
 h1{
     font-size: 100px;
-    text-align: left;
+    text-align: center;
     -webkit-text-stroke: 1px #b3ffec;
     color:white;
   } 
@@ -56,7 +57,11 @@ h2{
 p{
   font-size: 20px;
   padding-left: 10px;
+  background-color: #b3ffec;
+  font-style: italic;
 }
+
+
 
  label{
     font-size: 15px;
